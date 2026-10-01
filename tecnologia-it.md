@@ -16,3 +16,11 @@ Me gustaría aprender Docker porque permite crear y administrar contenedores par
 
 Me interesa aprender Docker porque es una herramienta utilizada en el desarrollo de software y puede facilitar la configuración de diferentes entornos.
 
+
+
+¿Qué necesito aprender primero?
+
+
+
+Primero necesito aprender los conceptos de imágenes, contenedores, Dockerfiles y comandos básicos de Docker.
+
