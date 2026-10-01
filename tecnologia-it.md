@@ -24,3 +24,13 @@ Me interesa aprender Docker porque es una herramienta utilizada en el desarrollo
 
 Primero necesito aprender los conceptos de imágenes, contenedores, Dockerfiles y comandos básicos de Docker.
 
+
+
+
+
+¿Qué me gustaría construir?
+
+
+
+Me gustaría construir aplicaciones utilizando contenedores para facilitar su instalación, ejecución y despliegue.
+
