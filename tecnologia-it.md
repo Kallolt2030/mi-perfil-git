@@ -34,3 +34,11 @@ Primero necesito aprender los conceptos de imágenes, contenedores, Dockerfiles 
 
 Me gustaría construir aplicaciones utilizando contenedores para facilitar su instalación, ejecución y despliegue.
 
+
+
+Cambio de prueba
+
+
+
+Este cambio será utilizado para practicar staging.
+
